@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Rishi%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Rishi%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Aspiring%20Software%20Engineer%20|%20💻%20Full%20Stack%20Developer%20|%20🤖%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
-
-<h3 align="center">🚀 Aspiring Software Engineer | 💻 Full Stack Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;DSA+Enthusiast;Always+Learning+New+Technologies"/>
