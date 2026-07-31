@@ -16,53 +16,73 @@
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 </p>
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
-🔭 I'm currently building scalable Full Stack Web Applications using the MERN Stack while exploring AI-powered applications and modern backend development.
+<table>
+<tr>
 
-🌱 I'm currently learning Advanced DSA, System Design, Generative AI, LangGraph & RAG.
+<td width="65%">
 
-👯 I'm looking to collaborate on Open Source, MERN Stack & AI Projects.
+🔭 **Currently Building**  
+Scalable Full Stack Web Applications using the **MERN Stack** while exploring **AI-powered applications** and modern backend development.
 
-💬 Ask me about C++, Python, JavaScript, React, Node.js, Express.js, MongoDB, MySQL & REST APIs.
+🌱 **Currently Learning**  
+Advanced DSA, System Design, Generative AI, LangGraph, and RAG.
 
-🎯 Goal: Become a Software Engineer and contribute to impactful products.
+🤝 **Looking to Collaborate On**  
+Open Source • MERN Stack • AI Projects
 
-⚡ Fun fact: I enjoy solving LeetCode problems and turning ideas into real-world applications.
+💬 **Ask Me About**  
+C++, Python, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, REST APIs & JWT Authentication.
 
-🚀 Current Focus
+🎯 **Career Goal**  
+Become a Software Engineer and build impactful products.
 
-✔ Full Stack Development
+⚡ **Fun Fact**  
+I enjoy solving LeetCode problems and turning ideas into real-world applications.
 
-✔ AI-powered Applications
+</td>
 
-✔ Advanced DSA
+<td align="center" width="35%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J2a2E2eW9rbmN6a2g2OWU5d2V0YWt5N2V2cnM2b3lqM3V6Nm95dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</td>
 
-✔ Backend Development
+</tr>
+</table>
 
-✔ System Design
-
-💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&perline=8"/>
 </p>
 
-🌟 Featured Projects
+# 🌟 Featured Projects
 
-💰 Personal Expense Tracker
+### 💰 Personal Expense Tracker
 
-A secure MERN application to manage income and expenses with JWT authentication, responsive UI, and insightful financial tracking.
+A secure MERN application that helps users manage income and expenses with JWT authentication, responsive UI, and insightful financial tracking.
+
+<p align="center">
+<a href="https://github.com/Rishi1240/Expense-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi1240&repo=Expense-Tracker&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+---
+
+### 🤖 AI Resume Analyzer & Mock Interview
+
+An AI-powered platform that analyzes resumes, generates personalized feedback, and conducts mock interviews to improve interview readiness.
+
+<p align="center">
+<a href="https://github.com/Rishi1240/AI-Resume-Analyzer-and-Mock-Interview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi1240&repo=AI-Resume-Analyzer-and-Mock-Interview&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
 
 
 
-🤖 AI Resume Analyzer & Mock Interview
-
-AI-powered platform that analyzes resumes, generates personalized feedback, and conducts mock interviews to improve interview readiness.
-
-
-
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi1240&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -73,19 +93,19 @@ AI-powered platform that analyzes resumes, generates personalized feedback, and 
 <img src="https://streak-stats.demolab.com?user=Rishi1240&theme=tokyonight&hide_border=true"/>
 </p>
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi1240&theme=tokyo-night"/>
 </p>
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rishi1240&theme=algolia&row=1&column=7&no-frame=true"/>
 </p>
 
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 Enable the GitHub Action in your profile repository, then this image will animate automatically.
 
@@ -93,7 +113,7 @@ Enable the GitHub Action in your profile repository, then this image will animat
 <img src="https://raw.githubusercontent.com/Rishi1240/Rishi1240/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rishi-kumar-139848317/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
